@@ -6,7 +6,7 @@
 
 - 🌱 Actualmente estoy estudiando programación
 
-- 💞️ Estoy buscando colaborar con la agencia de viajes <a href="https://rutascostarica.viajes/">Rutas Costa Rica</a>
+- 💞️ Estoy buscando colaborar con la <a href="https://rutascostarica.viajes/">agencia de viajes</a> Rutas Costa Rica
 
 - 📫 Me puedes contactar josemerchan2607@gmail.com
 
